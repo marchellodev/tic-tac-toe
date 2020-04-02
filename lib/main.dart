@@ -208,7 +208,7 @@ class _InitScreenState extends State<InitScreen> {
                   icon: Icon(MdiIcons.github),
                   color: Colors.cyan.shade400,
                   onPressed: () async {
-                    final url = 'https://google.com';
+                    final url = 'https://github.com/marchellodev/tic-tac-toe';
                     if (await canLaunch(url)) await launch(url);
                   },
                 ),
