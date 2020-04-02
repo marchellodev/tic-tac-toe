@@ -20,10 +20,9 @@ In addition, you can try running it on windows, macOS, linux and ios. If you hav
 ## Server side
 [Git repository of the server](https://github.com/marchellodev/server-tic-tac-toe)
 
-Server-side of this application is located here:
+Server side of this application is located here:
 - https://tic-tac-toe-server.marchello.cf
 
-_(Those are the same servers, just second url supports https connection)_
 
 ## License
 MIT
